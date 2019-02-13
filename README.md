@@ -208,6 +208,10 @@ Coordinate System
 Upgrade Log
 ---------------
 
+2019-02-13 version:2.0.3
+
+   1.fix ascendScanData timestamp issues.
+
 2019-01-17 version:2.0.2
 
    1.check lidar abnormality when turn on lidar.
